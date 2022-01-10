@@ -1,0 +1,13 @@
+{
+  "name": "lol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ac.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
